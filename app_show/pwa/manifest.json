@@ -1,0 +1,33 @@
+{
+  "name": "위잉클래스",
+  "short_name": "위잉클래스",
+  "description": "5∙6∙7세 프리미엄 온라인 영어 학습앱",
+  "id": "https://weengclassedu.imweb.me/",
+  "start_url": "https://weengclassedu.imweb.me/",
+  "scope": "https://weengclassedu.imweb.me/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#3b9cfb",
+  "theme_color": "#7407ff",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/wechange2026-gif/weengclassapp@main/app_show/pwa/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/wechange2026-gif/weengclassapp@main/app_show/pwa/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/wechange2026-gif/weengclassapp@main/app_show/pwa/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
